@@ -22,3 +22,5 @@ docs/_build/
 *.cer
 app.config
 local.settings.json
+
+venv/
